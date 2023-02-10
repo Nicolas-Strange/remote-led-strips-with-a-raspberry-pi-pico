@@ -1,0 +1,11 @@
+{
+    "led_list":{
+        "desk_left": 16,
+        "desk_front": 33,
+        "desk_right": 16,
+        "desk_back": 33,
+        "shelf_down": 33,
+        "shelf_middle": 25,
+        "shelf_up": 25
+    }
+}
