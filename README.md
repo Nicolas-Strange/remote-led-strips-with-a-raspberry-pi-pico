@@ -1,5 +1,7 @@
 # Remote LED Strips with a Raspberry Pi Pico
 
+![https://diy-home.org/](misc/schema.png)
+
 Welcome to the "Remote LED Strips with a Raspberry Pi Pico" 
 repository! This guide is designed to help you create a 
 remotely controlled LED strip system using the powerful 
