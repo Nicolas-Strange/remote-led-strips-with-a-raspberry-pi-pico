@@ -11,8 +11,8 @@ Bluetooth, making it easy to create dynamic and eye-catching
 light displays.
 
 You can find the full tutorial [here](https://diy-home.org/2023/01/20/remote-led-strips-with-a-raspberry-pi-pico/)
-- to learn how to build your device
-- to learn how to setup your Raspberry Pi Pico
+- how to build your device
+- how to setup your Raspberry Pi Pico
 - with the 3D model of the case
 
 ![https://diy-home.org/](misc/banner.png)
